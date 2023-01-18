@@ -1,5 +1,11 @@
 # Change Log
 
+## 3.3.1
+
+### Patch Changes
+
+- c64e7ef: chore: upgrade typescript
+
 ## 3.3.0
 
 ### Minor Changes

@@ -1,5 +1,13 @@
 # Change Log
 
+## 4.0.16
+
+### Patch Changes
+
+- c64e7ef: chore: upgrade typescript
+- Updated dependencies [c64e7ef]
+  - imagetools-core@3.3.1
+
 ## 4.0.15
 
 ### Patch Changes
